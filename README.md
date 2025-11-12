@@ -1,7 +1,7 @@
-# 💲 ShopNexus – Full Stack Amazon Clone
+# 💲 ShopNexus – Full Stack Ecommerce App
 
-ShopNexus is a full-stack **Amazon Clone** built using **Flutter (Frontend + Admin Panel)** and **Node.js + MongoDB (Backend)**.
-It provides a complete e-commerce experience for both **users** and **admins**, with real-time product management, payments, analytics, and more.
+ShopNexus is a full-stack **E-Commerce App** built using **Flutter (Frontend)** and **Node.js + MongoDB (Backend)**.
+It provides a complete e-commerce experience, with real-time product management, payments, analytics, and more.
 
 ---
 
